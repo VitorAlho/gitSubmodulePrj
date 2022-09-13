@@ -1,0 +1,18 @@
+[submodule "gitSubmodulePrj.X/src/PIC24FJ"]
+	path = gitSubmodulePrj.X/src/PIC24FJ
+	url = https://github.com/VitorAlho/PIC24FJ
+[submodule "gitSubmodulePrj.X/src/PHOENIX_BSP"]
+	path = gitSubmodulePrj.X/src/PHOENIX_BSP
+	url = https://github.com/VitorAlho/PHOENIX_BSP
+[submodule "gitSubmodulePrj.X/src/APPLICATION"]
+	path = gitSubmodulePrj.X/src/APPLICATION
+	url = https://github.com/VitorAlho/APPLICATION
+[submodule "gitSubmodulePrj.X/src/DEVICES"]
+	path = gitSubmodulePrj.X/src/DEVICES
+	url = https://github.com/VitorAlho/DEVICES
+[submodule "gitSubmodulePrj.X/src/HAL"]
+	path = gitSubmodulePrj.X/src/HAL
+	url = https://github.com/VitorAlho/HAL
+[submodule "gitSubmodulePrj.X/src/LOG"]
+	path = gitSubmodulePrj.X/src/LOG
+	url = https://github.com/VitorAlho/LOG
