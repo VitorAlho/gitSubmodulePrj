@@ -19,6 +19,7 @@
                 <sourceRootElem>src/LOG</sourceRootElem>
                 <sourceRootElem>src/PHOENIX_BSP</sourceRootElem>
                 <sourceRootElem>src/PIC24FJ</sourceRootElem>
+                <sourceRootElem>src/RFID_BSP</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>

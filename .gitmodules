@@ -16,3 +16,6 @@
 [submodule "gitSubmodulePrj.X/src/LOG"]
 	path = gitSubmodulePrj.X/src/LOG
 	url = https://github.com/VitorAlho/LOG
+[submodule "gitSubmodulePrj.X/src/RFID_BSP"]
+	path = gitSubmodulePrj.X/src/RFID_BSP
+	url = git@github.com:VitorAlho/RFID_BSP.git
